@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    .git directory is created to hold metadata/hidtory of the files in the
+    repository.  This is necessary to make the repository functional.
+    
