@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 	When I experiment on new ideas, branh allows me to work on a separate path than the master so that they
 	would not interfere with each other.
 	
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams depict the structure of the code tree to facilitate visualization.
+
