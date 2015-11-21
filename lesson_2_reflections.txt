@@ -13,3 +13,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 	Use git add to move the target file to the staging area, then
 	use git commit to update the repository with this single logical change.
 	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When I experiment on new ideas, branh allows me to work on a separate path than the master so that they
+	would not interfere with each other.
+	
