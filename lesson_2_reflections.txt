@@ -22,3 +22,8 @@ How do the diagrams help you visualize the branch structure?
 
 	Diagrams depict the structure of the code tree to facilitate visualization.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The changes in the two branches are combined together.
+
+	
